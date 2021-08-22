@@ -1,0 +1,6 @@
+{
+    "name": "First Extension",
+    "description": "Background Color Changer",
+    "version": "1.0",
+    "manifest_version": "3"
+}

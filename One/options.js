@@ -33,10 +33,12 @@ function constructOptions(buttonColors) {
             }
 
             button.addEventListener("click", handleButtonClick)
-            page.appendChild("button")
+            page.appendChild(button)
 
         }
 
         
     })
 }
+
+constructOptions(presetButtonColors)
